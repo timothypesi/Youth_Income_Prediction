@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+Flask
+joblib
+gunicorn  # This is used for deploying Flask apps in production
